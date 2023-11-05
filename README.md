@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/Manusiajago/Manusiajago/assets/135425703/f31f1ea4-6851-4e5a-8f2e-59f51458f068)
+![github-header-image](https://github.com/Manusiajago/Manusiajago/assets/135425703/c8bf4e52-781f-4fd6-9aff-b2432ac0a33a)
 <h1 align="center">Hi 👋, I'm Egal Assegaf</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
