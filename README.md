@@ -1,3 +1,4 @@
+![github-header-image (1)](https://github.com/Manusiajago/Manusiajago/assets/135425703/8d3c97bb-51e2-4bef-bcdf-8503f3b5b92e)
 
 <h1 align="center">Hi 👋, I'm Egal Assegaf</h1>
 <h3 align="center">A passionate frontend developer from Indonesian</h3>
